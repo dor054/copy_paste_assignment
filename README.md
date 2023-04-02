@@ -22,4 +22,6 @@ On Azure:
 On AWS s3 storage upload a file. Logs of aws lambda func are available on CloudWatch. 
 After a while verify the file appears on Azure blob storage. I tested to upload txt files and images of up to 10MB size. 
 
+This is a simple POC solution and might be improved in terms of security, efficiency etc.
+
 Dor Feldman
