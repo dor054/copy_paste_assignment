@@ -14,7 +14,7 @@ On AWS:
 On Azure:
 1. Create storage account and create container for it.
 2. Create Function App based on HTTP trigger.
-3. Write a function based on XXX. I used an external IDE and wrote a function app code using VS code.
+3. Write a function based on azure_function_init.py. I used an external IDE and wrote a function app code using VS code.
 4. On function app configuration add a connection string to consume the blob storage Name: df_storage_conn_str1, Type: Custom. Use the connction string from storage account page. 
   Save the function.
 
